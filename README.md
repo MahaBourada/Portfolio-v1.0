@@ -1,7 +1,4 @@
 # Portfolio
-<b>My personal website:</b>
-<b><a href="https://mahabourada.github.io/Portfolio/" target="_blank">mahabourada.github.io/Portfolio/</a></b>
-
 <ul>
 <li><b>Technologies used:</b></li>
   <ul>
